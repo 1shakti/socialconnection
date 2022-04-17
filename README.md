@@ -1,2 +1,2 @@
-# socialconnection
-Six degrees of separation
+# Socialconnections
+
